@@ -77,4 +77,3 @@ Distributed under the MIT License. See LICENSE for more information.
 Chas Huggins - <hugginsc10@gmail.com>
 
 Project Link: <https://github.com/hugginsc10/uf-toolkit/>
-
