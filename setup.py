@@ -6,7 +6,7 @@ setup(
     name="uf-toolkit",
     version="0.1.1",
     packages=find_packages(),
-    description="A simple Union Find package for those that don't want to come up with the UnionFind Class and Methods on the spot.",
+    description="A simple Union Find Class for Python.",
     long_description=long_description,
     long_description_content_type='text/markdown',
     author="Chas Huggins",
