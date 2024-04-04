@@ -8,10 +8,10 @@ Our implementation offers features like path compression and union by rank, ensu
 
 ## Features
 
-**Efficient Union Find Operations:** Implements both path compression and union by rank for fast operation.
-**Easy-to-Use API:** Designed with simplicity in mind, our API makes it easy to integrate into your existing Python projects.
-**Versatile Applications:** Suitable for use cases ranging from network analysis to algorithmic problem solving in competitive programming.
-**Fully Documented:** Each method and class is thoroughly documented, making it easy to get started and understand how the package works.
+- **Efficient Union Find Operations:** Implements both path compression and union by rank for fast operation.
+- **Easy-to-Use API:** Designed with simplicity in mind, our API makes it easy to integrate into your existing Python projects.
+- **Versatile Applications:** Suitable for use cases ranging from network analysis to algorithmic problem solving in competitive programming.
+- **Fully Documented:** Each method and class is thoroughly documented, making it easy to get started and understand how the package works.
 
 ## Installation
 

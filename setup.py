@@ -4,7 +4,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()
 setup(
     name="uf-toolkit",
-    version="0.1.1",
+    version="0.2.0",
     packages=find_packages(),
     description="A simple Union Find Class for Python.",
     long_description=long_description,

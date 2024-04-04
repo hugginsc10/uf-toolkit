@@ -1,10 +1,10 @@
 [build-system]
-requires = ["setuptools>=40.9.0", "wheel"]
+requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "uf-toolkit"
-version = "0.1.1"
+version = "0.2.1"
 description = "A simple Union Find Class for Python."
 readme = "README.md"
 authors = [
